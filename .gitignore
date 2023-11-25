@@ -1,0 +1,32 @@
+# folders
+./dat/
+./data/
+./figures*/
+./oldfigures*/
+./outdir/
+./pptimage/
+./tables/
+./txt/
+./bin/
+
+# text files
+*.txt
+*.nam
+
+# bin files
+*.bin
+
+# python 
+*.pyc
+
+# fortran excutables
+*.so
+*.cpython*
+*read_CMF
+*read_discharge
+*read_interval
+*read_WSE
+*river_patch
+
+# PBS output files
+*.o*
