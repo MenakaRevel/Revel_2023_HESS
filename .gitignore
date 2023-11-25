@@ -1,13 +1,15 @@
 # folders
-./dat/
-./data/
-./figures*/
-./oldfigures*/
-./outdir/
-./pptimage/
-./tables/
-./txt/
-./bin/
+dat/
+data/
+figures*/
+oldfigures*/
+outdir/
+pptimage/
+tables/
+txt/
+bin/
+etc/
+pdfdoc/
 
 # text files
 *.txt
